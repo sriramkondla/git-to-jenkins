@@ -3,7 +3,7 @@ pipeline {
    stages {
       stage('Verify Branch') {
          steps {
-            echo 'This is main branch Jenkins623'
+            echo 'This is main branch Jenkinsfile'
          }
        }
      }
